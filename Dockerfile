@@ -1,4 +1,4 @@
-FROM fluent/fluentd:v1.9-1
+FROM fluent/fluentd:v1.9.1-1.0
 
 # add mongo plugin
 USER root
